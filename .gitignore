@@ -1,0 +1,7 @@
+
+# ignore IDE config
+.idea/
+.vscode/
+
+# ignore test files
+test/
