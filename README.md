@@ -8,8 +8,8 @@ Included excellent front-end page, source code is copied, only for learning refe
 ---
 ## 目录 Index
 
-> 01 Start Project Website with Login and Registration
-- Info: 登录页面
+> 01 Website with Login and Registration
+- Info: 主页，带有导航栏，登录/注册窗口
 - Code: [01_Website_with_Login_and_Registration](01_Website_with_Login_and_Registration)
 - Source: https://www.youtube.com/watch?v=p1GmFCGuVjw
 - Preview:![img_1.jpg](Preview_Imgs/img_1.jpg)
