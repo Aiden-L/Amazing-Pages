@@ -9,13 +9,14 @@
 body{
     display: flex;
     justify-content: center;
+    background: #020912;
 }
 #main-box{
     min-height: 100vh;
     overflow-x: hidden; /* 隐藏画面外元素 */
     position: relative;
-    min-width: 1463px;
-    /*max-width: 1620px;*/
+    min-width: 770px;
+    max-width: 2130px;
 }
 header{
     position: absolute;
@@ -70,7 +71,7 @@ header{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    /*height: 100vh; !* 这里通过js实现，避免上下断开 *!*/
     background: url("background.png") no-repeat;
     background-size: cover;
     background-position: center;
