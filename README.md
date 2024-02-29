@@ -27,6 +27,7 @@ Included excellent front-end page, source code is copied, only for learning refe
 > 03 Parallax Scrolling Website 1 Improved
 - Info: 修复`02_Parallax_Scrolling_Website_1`视差滚动效果对于不同宽度屏幕不适配的问题
 - Code: [03_Parallax_Scrolling_Website_1_Improved](03_Parallax_Scrolling_Website_1_Improved)
+- Guide Video: 
 - Preview:
 
-  <img src="Preview_Imgs/img_2.jpg" width="500px">
+  <img src="Preview_Imgs/img_3.jpg" width="500px">
