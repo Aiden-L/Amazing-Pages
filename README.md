@@ -31,3 +31,8 @@ Included excellent front-end page, source code is copied, only for learning refe
 - Preview:
 
   <img src="Preview_Imgs/img_3.jpg" width="500px">
+
+> 04 Index Page Website 1
+- Info: 用于展示的主页，毛玻璃效果
+- Icons: https://boxicons.com/
+- Source Video: https://www.youtube.com/watch?v=KOJ8RT-NxHg
