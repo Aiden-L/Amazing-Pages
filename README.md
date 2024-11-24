@@ -34,5 +34,10 @@ Included excellent front-end page, source code is copied, only for learning refe
 
 > 04 Index Page Website 1
 - Info: 用于展示的主页，毛玻璃效果
+- Code: [04_Index_Page_Website_1](04_Index_Page_Website_1)
 - Icons: https://boxicons.com/
 - Source Video: https://www.youtube.com/watch?v=KOJ8RT-NxHg
+- Preview:
+
+  <img src="Preview_Imgs/img_4.jpg" width="500px">
+
